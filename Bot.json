@@ -1,0 +1,25 @@
+{
+    "Modules": {
+        "Warnings": {
+            "Data": {
+                "Warnings": {
+                    "935528003549675561": [
+                        "saying bad word"
+                    ],
+                    "1215639600094253086": [],
+                    "1215349842289623111": [
+                        "No Reason given."
+                    ],
+                    "1213452614877057065": [
+                        "idiot"
+                    ],
+                    "801034719701106688": [
+                        "bringt mich ins Bett:(",
+                        "bed"
+                    ]
+                }
+            }
+        }
+    },
+    "Permissions": {}
+}
