@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands
-from Tokens import TOKEN
+import os
+TOKEN = os.environ['Token']
 import Botjson
 import requests
 BOT_JSON = Botjson.Botjson()
